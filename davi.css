@@ -1,0 +1,131 @@
+h1{
+    text-align: center;
+    font-family: 'Cambria Math';
+    margin-bottom: 17mm;
+    margin-top: 14mm;
+    font-size: 65px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 10mm;
+}
+
+.rua{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 8mm;
+}
+
+.nac{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 8mm;
+}
+
+.id{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 8mm;
+}
+
+.cel{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 8mm;
+    margin-bottom: 22mm;
+}
+
+.obj{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: #FF2971;
+    margin-bottom: 20mm;
+}
+
+.em{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 6mm;
+    color: rgb(000,176,240);
+    
+}
+
+.es{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(009,078,191);
+    margin-bottom: 20mm;
+}
+
+.pv{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(000,176,080);
+    line-height: 0em;
+}
+
+.sv{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(000,072,033);
+    line-height: 0em;
+}
+
+.tv{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(000,176,080);
+    line-height: 0em;
+}
+
+.qv{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(000,072,033);
+    line-height: 0em;
+}
+
+.kv{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(000,176,080);
+    line-height: 0em;
+    margin-bottom: 18mm;
+}
+
+.ling{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(166,162,000);
+    margin-bottom: 18mm;
+}
+
+.trab{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(117,117,117);
+    line-height: 0em;
+}
+
+.trab2
+{
+    text-align: center;
+    font-family: 'Century Gothic';
+    font-size: 7mm;
+    color: rgb(000,112,192);
+}
